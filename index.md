@@ -16,7 +16,7 @@
   <tbody><tr>
     <td width="75%">
       <h1>苏</h1>
-      <p><b>硕士研究生</b></p>
+   
 
       <p><a href="/index-en.html">English Version</a></p>
     </td>
